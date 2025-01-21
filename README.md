@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="pa6158" /> </p>
 
 - 🌱 I’m currently learning **React, Node.js, and advanced web development**
-<a href="https://admirable-semolina-e5bc52.netlify.app/" target="_blank >
-- 👨‍💻 All of my projects are available at [[https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/)]</a>
+
+- 👨‍💻 All of my projects are available at [[https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/)]
 
 - 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akash-pal-831aa31aa/))
 

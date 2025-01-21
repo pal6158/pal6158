@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [[https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/)]
 
-- 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akash-pal-831aa31aa/))
+- 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/akash-pal-831aa31aa/])
 
 - 💬 Ask me about **JavaScript, React, Node.js, and problem-solving**
 

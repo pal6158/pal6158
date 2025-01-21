@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Node.js, and advanced web development**
 
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com]([https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/))
+- 👨‍💻 All of my projects are available at [[https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/)]
 
 - 📝 I regularly write articles on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/akash-pal-831aa31aa/))
 

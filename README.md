@@ -55,3 +55,25 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
+
+
+<h2 align="center">🚀 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h2 align="center">🌟 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github" alt="Contribution Graph" />
+</p>

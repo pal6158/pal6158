@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <h2 align="center">🚀 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal6158&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌟 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pal6158&theme=github" alt="Contribution Graph" />
 </p>

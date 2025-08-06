@@ -1,79 +1,47 @@
-## Hi there 👋
-
-<!--
-**pal6158/pal6158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm [Akash pal]</h1>
-<h3 align="center">A passionate web developer and coding enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="pa6158" /> </p>
-
-- 🌱 I’m currently learning **React, Node.js, and advanced web development**
-
-- 👨‍💻 All of my projects are available at [[https://yourportfolio.com](https://admirable-semolina-e5bc52.netlify.app/)]
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/akash-pal-831aa31aa/)
-
-- 💬 Ask me about **JavaScript, React, Node.js, and problem-solving**
-
-- 📫 How to reach me **pal61586@gmail.com**
-
-- ⚡ Fun fact **I love coding and exploring new technologies!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-pal-831aa31aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Akash pal" height="30" width="40" /></a>
-<a href="[https://github.com/yourusername](https://github.com/pal6158)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="pal6158" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akash+pal;Full-Stack+Developer;Web+Enthusiast" alt="Typing SVG" />
+  </h1>
+</div>
 
 
-<h2 align="center">🚀 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pal6158&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/akash-pal-831aa31aa/"><img src="https://img.shields.io/badge/-AKASH PAL-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:pal61586@gmail.com"><img src="https://img.shields.io/badge/-pal61586@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://starlit-biscotti-d96ba2.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
----
+<img align="right" alt="Coding" width="340" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250604T103551Z&X-Amz-Expires=300&X-Amz-Signature=dcee19ff625da03e762c0f505e6bffbfa7f95621c4749b0cfa888f69624c8037&X-Amz-SignedHeaders=host">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🚀 About Me
+
+- 🔭 Enhancing my *Full-Stack development* skills
+- 🌱 Growing in the *MERN stack* ecosystem
+- 💬 Ask me about *Web Development* - Always happy to help!
+- ⚡ Fun fact: Cricket enthusiast 🏏 who codes between matches
+- 📫 Reach me at: *pal61586@gmail.com*
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
----
+### 📊 GitHub Stats
 
-<h2 align="center">🌟 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pal6158&theme=github" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pal6158r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pal6158&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</div>

@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pal6158r&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pal6158&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pal6158&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
